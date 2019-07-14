@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Always Show Current Version in Dashboard Footer
- * Plugin URI:
+ * Plugin URI: https://github.com/csalzano/always-show-current-version
  * Description: Shows the current WordPress version number in the Dashboard footer even when an update is available.
  * Version: 1.0.0
  * Author: Corey Salzano
